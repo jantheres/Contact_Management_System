@@ -16,3 +16,8 @@
 1. Install requirements:
    ```bash
    pip install django
+Run migrations:
+   ```bash
+   python manage.py makemigrations
+   python manage.py migrate
+
